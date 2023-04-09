@@ -1,0 +1,63 @@
+git log
+commit da7e0cd0df1c50df05149e9d6ddd2cd3c52ac501 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Damjan Avramovski - 213031 <damjan.avramovski@students.finki.ukim.mk>
+Date:   Sun Apr 9 21:48:08 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit a2c86f05047e95db5d2a729bf4492b264367512f
+Author: Damjan Avramovski - 213031 <damjan.avramovski@students.finki.ukim.mk>
+Date:   Sun Apr 9 21:39:23 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 30c605a478e86ed7481cd000f4a905545fb05669
+Merge: 05da1d6 eee5c86
+Author: Damjan Avramovski - 213031 <damjan.avramovski@students.finki.ukim.mk>
+Date:   Sun Apr 9 21:52:05 2023 +0200
+
+    Merge branch 'bug2'
+
+commit eee5c8658fba75efc06b2c6c4011bce57727d164 (origin/bug2, bug2)
+Author: Damjan Avramovski - 213031 <damjan.avramovski@students.finki.ukim.mk>
+Date:   Sun Apr 9 21:34:26 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 05da1d67c2121c06689c5fe03967103026fb2ae5 (origin/bug1, bug1)
+Author: Damjan Avramovski - 213031 <damjan.avramovski@students.finki.ukim.mk>
+Date:   Sun Apr 9 21:26:16 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 5ae87111fc544b8922a25c80cc835d832a8cb4d6
+commit 5ae87111fc544b8922a25c80cc835d832a8cb4d6
+Merge: 8e5bb2c 73c95b1
+Author: Damjan Avramovski - 213031 <damjan.avramovski@students.finki.ukim.mk>
+Date:   Sun Apr 9 20:56:18 2023 +0200
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 8e5bb2c5fad2fce10971e7e914673427c3f78dd9
+Author: Damjan Avramovski - 213031 <damjan.avramovski@students.finki.ukim.mk>
+Date:   Sun Apr 9 19:45:44 2023 +0200
+
+    Add java class
+
+commit 5a06b263dbc06e748764154e5ca2f120ab423cd5
+Author: Damjan Avramovski - 213031 <damjan.avramovski@students.finki.ukim.mk>
+Date:   Sun Apr 9 19:41:45 2023 +0200
+
+    Initial commit
+
+commit 73c95b1e63f574b3faa4483aa72742e06eae7b18
+Author: Gavranot <127050536+Gavranot@users.noreply.github.com>
+Date:   Sun Apr 9 19:36:57 2023 +0200
+
+    Deleted pre-made README.md
+
+commit 5e19eb47f8d875f6c50d2aa8f95017bca14a008b
+Author: Gavranot <127050536+Gavranot@users.noreply.github.com>
+Date:   Sun Apr 9 19:14:13 2023 +0200
+
+    Initial commit
