@@ -1,0 +1,28 @@
+4. git init
+5. git remote add https://github.com/Gavranot/SI_2023_lab1_213031/tree/master
+6. git add README.md ; git commit -m "Initial commit"
+7. git add SILab1.java; git commit -m "Add java class"
+8. git push --all
+9. git branch bug1 ; git branch bug2; git branch bug3
+10. git checkout bug1
+11. Се поправа i<=n во i<n ; 
+	git add . ; git commit -m "Fix wrong loop for reading"
+12. git checkout bug2
+13. Се поправа el % 2 == 0 во el % 2 !=0 ;
+	git add . ; git commit -m "Fix wrong condition in filterOddNumbers"
+14. git checkout bug3
+15. Се поправа sum*=el во sum+=el и sum = 1 во sum = 0 ; 
+	git add . ; git commit -m "Fix method sumEvenNumbers"
+16. git push -u origin master bug1 bug2 bug3
+17. git checkout master
+18. git merge bug1
+19. git push -u origin master
+20. git merge bug 2
+21. git push -u origin master
+22. git checkout bug3
+23. git rebase master
+24. git checkout master
+25. git merge bug3
+26. git push --force origin bug3
+27. git add logs.txt 213031.txt; git commit -a -m "Final commit"
+28. git push --all
